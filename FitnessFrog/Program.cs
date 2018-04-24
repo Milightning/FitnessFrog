@@ -66,7 +66,7 @@ namespace FitnessFrog
                 // Repeat until user quits
             }
 
-            Console.WriteLine("Goodbye");
+            Console.WriteLine("Bye-bye");
         }
     }
 }
